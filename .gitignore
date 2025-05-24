@@ -97,3 +97,4 @@ publish/
 _ReSharper*/
 *.DotSettings.user
 *.DotSettings
+Debug/
