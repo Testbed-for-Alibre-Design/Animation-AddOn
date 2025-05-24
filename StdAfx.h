@@ -40,8 +40,8 @@
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
 // Edit the folder path to the type library files below based on where Alibre Design is installed on your computer
-#import "C:\Program Files\Alibre Design\Program\AlibreX_64.tlb"	
-#import "C:\Program Files\Alibre Design\Program\AlibreAddOn_64.tlb" raw_interfaces_only
+#import "C:\Program Files\Alibre Design 28.0.4.28141\Program\AlibreX_64.tlb"
+#import "C:\Program Files\Alibre Design 28.0.4.28141\Program\AlibreAddOn_64.tlb" raw_interfaces_only
 
 using namespace AlibreX;
 using namespace AlibreAddOn;
